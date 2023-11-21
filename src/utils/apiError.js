@@ -19,4 +19,5 @@ class apiError extends Error {
         }
     }
 }
+
 export {apiError}
